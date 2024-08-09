@@ -1,0 +1,30 @@
+.container {
+  background-color: rgb(80, 73, 94);
+  text-align: center;
+  font-family: cursive;
+  font-size: 40px;
+  height: 100vh;
+}
+h1 {
+  color: rgb(134, 196, 190);
+}
+
+.scoreBoard {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 50px;
+  width: 100%;
+}
+.hide {
+  display: none;
+}
+.container2 {
+  display: flex;
+  gap: 200px;
+  justify-content: center;
+}
+img {
+  height: 200px;
+  width: 200px;
+}
